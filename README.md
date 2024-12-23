@@ -4,21 +4,20 @@
 저의 개인 블로그이자 포트폴리오 페이지 코드입니다.
 
 # 🛰️Main Info
-- [Portfolio Link]()
-- [Blog Link]()
+- [Main Link](https://yonghwan.kr)
+- [Portfolio Link](https://yonghwan.kr/portfolio)
+- [Blog Link](https://yonghwan.kr/blog)
 
 # 📰 New Features
+- [24.12.23] 🏗️ Blog Part - Basic settings with Next.js
 - [24.12.21] 🏗️ Blog Part - Basic settings with SvelteKit
 - [24.12.21] 🔥 Project Start!
 
 # 🧑‍💻 Tech Stack
-- [front] SvelteKit
-- [back] FastAPI
+- [fullstack] Next.js
 - [storage] AWS S3
-- [cdn] AWS CloudFront
 - [dns] AWS Route 53
 - [cert] AWS Certificate Manager
-- [auth] AWS IAM
 
 # 😎 Contributors
 <a href="https://github.com/NewPlus/yh_blog/graphs/contributors">
